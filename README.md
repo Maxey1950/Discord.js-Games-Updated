@@ -8,7 +8,7 @@ to your discord bots token and put your id from enable dev mode discord
 then change your prefix 
 
 
-type for thr run  button node index.js
+type for the run  button node index.js
 
 
 
